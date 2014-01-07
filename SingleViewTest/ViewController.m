@@ -13,7 +13,7 @@
 @end
 
 @implementation ViewController
-
+@synthesize label;
 - (void)viewDidLoad
 {
     [super viewDidLoad];
@@ -26,4 +26,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)buytton:(id)sender {
+    
+    self.label.text = @"Hello Nathan";
+    
+    
+}
 @end
