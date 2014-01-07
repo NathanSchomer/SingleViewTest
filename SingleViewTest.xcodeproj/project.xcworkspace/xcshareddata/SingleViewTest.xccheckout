@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>687CA8DF-CBCB-4BC5-9032-91DF2C7A4BA3</string>
+	<string>626E0CF4-F5FB-4582-987D-3D1DCDBEDF49</string>
 	<key>IDESourceControlProjectName</key>
 	<string>SingleViewTest</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>31FD6796-000B-4B5A-B207-B0D3D30568D8</key>
-		<string>https://github.com/mynameisflie/SingleViewTest.git</string>
+		<key>C0222556-224C-4497-A5A1-6C018584A2D6</key>
+		<string>https://github.com/NathanSchomer/SingleViewTest.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SingleViewTest.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>31FD6796-000B-4B5A-B207-B0D3D30568D8</key>
+		<key>C0222556-224C-4497-A5A1-6C018584A2D6</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/mynameisflie/SingleViewTest.git</string>
+	<string>https://github.com/NathanSchomer/SingleViewTest.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>31FD6796-000B-4B5A-B207-B0D3D30568D8</string>
+	<string>C0222556-224C-4497-A5A1-6C018584A2D6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>31FD6796-000B-4B5A-B207-B0D3D30568D8</string>
+			<string>C0222556-224C-4497-A5A1-6C018584A2D6</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SingleViewTest</string>
 		</dict>
